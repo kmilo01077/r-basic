@@ -71,6 +71,8 @@ factorial(0)
 
 choose(5, 3)
 
+choose(1000 ,4)
+
 choose(3,5)
 
 log(4^6, 4)
